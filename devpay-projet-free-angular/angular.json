@@ -41,7 +41,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/devpay-angular-temp",
+            "outputPath": "dist/devpay",
             "index": "src/index.html",
            "main": "src/main.ts",
             "polyfills": [
@@ -90,10 +90,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "devpay-angular-temp:build:production"
+              "buildTarget": "devpay-projet-free-angular:build:production"
             },
             "development": {
-              "buildTarget": "devpay-angular-temp:build:development"
+              "buildTarget": "devpay-projet-free-angular:build:development"
             }
           },
           "defaultConfiguration": "development"
