@@ -64,4 +64,9 @@ Le projet vous permettra de mettre en pratique les concepts appris dans les cour
 Nous suivons votre progression de près et restons disponibles pour vous accompagner.
 
 Bon courage et bon apprentissage ! 💪
+## 🚀 Projet Mariama BA
+
+- Dashboard Angular
+- Auth JWT
+- Formations
 
